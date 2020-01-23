@@ -1,0 +1,50 @@
+tarting Nmap 7.60 ( https://nmap.org ) at 2020-01-23 21:24 UTC
+Nmap scan report for 204.74.99.103
+Host is up (0.011s latency).
+Not shown: 999 filtered ports
+PORT   STATE SERVICE
+80/tcp open  http
+
+Nmap done: 1 IP address (1 host up) scanned in 11.61 seconds
+
+
+Starting Nmap 7.60 ( https://nmap.org ) at 2020-01-23 21:32 UTC
+Nmap scan report for 204.74.99.103
+Host is up (0.011s latency).
+
+PORT   STATE    SERVICE
+10/tcp filtered unknown
+11/tcp filtered systat
+12/tcp filtered unknown
+13/tcp filtered daytime
+14/tcp filtered unknown
+15/tcp filtered netstat
+16/tcp filtered unknown
+17/tcp filtered qotd
+18/tcp filtered msp
+19/tcp filtered chargen
+20/tcp filtered ftp-data
+
+Nmap done: 1 IP address (1 host up) scanned in 1.70 seconds
+
+
+Starting Nmap 7.60 ( https://nmap.org ) at 2020-01-23 21:34 UTC
+Nmap scan report for 204.74.99.103
+Host is up (0.011s latency).
+Not shown: 99 filtered ports
+PORT   STATE SERVICE
+80/tcp open  http
+
+Nmap done: 1 IP address (1 host up) scanned in 2.13 seconds
+
+
+Starting Nmap 7.60 ( https://nmap.org ) at 2020-01-23 21:30 UTC
+Nmap scan report for 204.74.99.103
+Host is up (0.011s latency).
+
+PORT   STATE    SERVICE
+21/tcp filtered ftp
+
+Nmap done: 1 IP address (1 host up) scanned in 0.50 seconds
+
+

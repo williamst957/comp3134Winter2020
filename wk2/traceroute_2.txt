@@ -1,0 +1,7 @@
+  1   115 ms     6 ms     1 ms  10.4.64.1
+  2   291 ms     2 ms   299 ms  198.96.85.3
+  3    73 ms    45 ms   126 ms  ut-hub-gbrownc-if-internet.gtanet.ca [205.211.94.173]
+  4    15 ms    33 ms    14 ms  digitalocean.ip4.torontointernetxchange.net [206.108.35.15]
+  5    44 ms    30 ms    18 ms  138.197.249.87
+  6     *        *        *     Request timed out.
+  7   141 ms     7 ms     2 ms  159.203.28.17
